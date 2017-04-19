@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi 
+
+this is the first chang i made
